@@ -41,3 +41,4 @@ if vim.g.kanagawa_lualine_bold then
 end
 
 return kanagawa
+
